@@ -1,0 +1,15 @@
+{
+  "hotel": [
+    {
+      "name": "Steigenberger Makadi",
+      "tags": [
+        "Madinat Makadi",
+        "Safaga Road",
+        "Makadi Bay",
+        "Египет"
+      ],
+      "rate": 5.0,
+      "price": 134673.0
+    }
+  ]
+}
